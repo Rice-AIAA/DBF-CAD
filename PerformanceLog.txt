@@ -1,2 +1,2 @@
-Number of Contacts: 876
-Number of contact data: 62847
+Number of Contacts: 875
+Number of contact data: 65051
